@@ -102,3 +102,7 @@ header {
         float: left;
     }
 }
+
+p.imagp {
+    text-align: center;
+}
